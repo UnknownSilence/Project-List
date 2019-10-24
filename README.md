@@ -12,3 +12,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Web-scraping application that find's the best possible teachers for your classes based on reviews from websites like ratemyprofessor.
 - Mobile or Web app to remind people of medical apointments and assist in insurance matters. Aimed at young adults who aren't used to making their own doctor appointments.
 - Duoling for cooking. Teaching people how to cook for themselves through daily programs.
+- Web scraping automation application that posts job posting on multiple selected sites (indeed, linkedin, glassdoor, etc.) at once.
