@@ -14,3 +14,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Duoling for cooking. Teaching people how to cook for themselves through daily programs.
 - Web scraping automation application that posts job posting on multiple selected sites (indeed, linkedin, glassdoor, etc.) at once.
 - Web based conference application where participants can join a session and view content or slides live with a chat and file stream for neccesary comments or uploads.
+- Home management app where chores and activities can be distributed between household members. As a mobile app, reminders could be used to notify who's turn it is to do chores.
