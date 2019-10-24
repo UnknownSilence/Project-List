@@ -17,3 +17,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Home management app where chores and activities can be distributed between household members. As a mobile app, reminders could be used to notify who's turn it is to do chores.
 - Holiday wishlist application (mobile & web). Adds option to add items to wishlist likely through a chrome extension similiar to honey. Will allow users to "share" the list with friends or family. 
 - Receipt management mobile app that takes photos of receipts and keeps track of financial spendings.
+- Virtual Study group web-application that will match with annonymous students in the same class.
