@@ -15,3 +15,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Web scraping automation application that posts job posting on multiple selected sites (indeed, linkedin, glassdoor, etc.) at once.
 - Web based conference application where participants can join a session and view content or slides live with a chat and file stream for neccesary comments or uploads.
 - Home management app where chores and activities can be distributed between household members. As a mobile app, reminders could be used to notify who's turn it is to do chores.
+- Holiday wishlist application (mobile & web). Adds option to add items to wishlist likely through a chrome extension similiar to honey. Will allow users to "share" the list with friends or family. 
