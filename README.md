@@ -18,3 +18,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Holiday wishlist application (mobile & web). Adds option to add items to wishlist likely through a chrome extension similiar to honey. Will allow users to "share" the list with friends or family. 
 - Receipt management mobile app that takes photos of receipts and keeps track of financial spendings.
 - Virtual Study group web-application that will match with annonymous students in the same class.
+- UI based Resume Generator of Cover Letter generator based on LinkedIn data/ job specifications.
