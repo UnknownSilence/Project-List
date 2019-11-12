@@ -19,3 +19,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Receipt management mobile app that takes photos of receipts and keeps track of financial spendings.
 - Virtual Study group web-application that will match with annonymous students in the same class.
 - AI based Resume Generator of Cover Letter generator based on LinkedIn data/ job specifications.
+- Web/Desktop/Mobile app that manages homework. (add assignments and files, set due dates, create groups, share due dates and work with friends, etc.)
