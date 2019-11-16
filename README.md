@@ -20,3 +20,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Virtual Study group web-application that will match with annonymous students in the same class.
 - AI based Resume Generator of Cover Letter generator based on LinkedIn data/ job specifications.
 - Web/Desktop/Mobile app that manages homework. (add assignments and files, set due dates, create groups, share due dates and work with friends, etc.)
+- Health care price comparison application that utilizes user reviews on pricing of specific treatments and insurance usages. Think ratemyprofessor but for hospitals and health care prices.
