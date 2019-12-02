@@ -23,4 +23,4 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Health care price comparison application that utilizes user reviews on pricing of specific treatments and insurance usages. Think ratemyprofessor but for hospitals and health care prices.
 - Mobile/Tablet application designed to remind patients afflicted with Alzheimers or other similiar memory issues on customized time intervals. Include voice recordings/video as well as text reminders.
 - App to help youth find career paths through detailed info and personality/skill tests.
-- Professional bug-tracking application.
+- Professional bug-tracking and issue-tracking application.
