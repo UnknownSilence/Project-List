@@ -11,7 +11,7 @@ A collection of potential projects &amp; programs I could build when inspiration
 - Machine learning application to build your weekly/monthly schedule.
 - Web-scraping application that find's the best possible teachers for your classes based on reviews from websites like ratemyprofessor.
 - Mobile or Web app to remind people of medical apointments and assist in insurance matters. Aimed at young adults who aren't used to making their own doctor appointments. Differentiates doctor visits, checkups, orthodontist appointments, and vaccination visits.
-- Duoling for cooking. Teaching people how to cook for themselves through daily programs.
+- Duolingo for cooking. Teaching people how to cook for themselves through daily programs.
 - Web scraping automation application that posts job posting on multiple selected sites (indeed, linkedin, glassdoor, etc.) at once.
 - Web based conference application where participants can join a session and view content or slides live with a chat and file stream for neccesary comments or uploads.
 - Home management app where chores and activities can be distributed between household members. As a mobile app, reminders could be used to notify who's turn it is to do chores.
